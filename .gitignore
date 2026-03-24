@@ -1,0 +1,12 @@
+.idea/
+.venv/
+
+videos/
+frames/
+masks/
+inpaint_masks/
+detections/
+outputs/
+outputs_batch/
+
+*.pt
